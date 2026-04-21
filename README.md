@@ -1,4 +1,4 @@
-## Task 2: Customer Retention & Churn Analysis 📉
+## Task 2: Customer Retention & Churn Analysis 
 
 ### Objective
 To analyze customer data for a subscription-based business to identify churn patterns, determine retention drivers, and build a predictive model to flag at-risk customers.
